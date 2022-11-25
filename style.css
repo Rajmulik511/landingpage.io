@@ -135,7 +135,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:url(../images/ayush-bg.jpeg) no-repeat;
+    background:url(images/ayush-bg.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
